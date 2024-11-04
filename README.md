@@ -1,1 +1,1 @@
-# knowlege-graphs
+# GraphRAG with Neo4j and LangChain
