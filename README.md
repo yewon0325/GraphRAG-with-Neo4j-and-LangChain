@@ -1,1 +1,1 @@
-# GraphRAG with Neo4j and LangChain
+## GraphRAG with Neo4j and LangChain
